@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 📫 How to reach me: 
+                Twitter  https://twitter.com/gdip95
+                LinkedIn https://www.linkedin.com/in/giuseppe-dipasquale/
 <!--
 **giuseppedipasquale/giuseppedipasquale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
