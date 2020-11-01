@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Propulsion Systems for 🛰️
-- 📫 How to reach me: @gdip95 (Twitter), /giuseppe-dipasquale (LinkedIn)
+- 📫 How to reach me: </br>
+                - https://twitter.com/gdip95 (Twitter) </br>
+                - https://www.linkedin.com/in/giuseppe-dipasquale (LinkedIn) </br>
 <!--
 **giuseppedipasquale/giuseppedipasquale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
