@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Propulsion Systems for 🛰️
+- 🔭 I’m currently working on Space Mission Analysis using Low-Thrust Electric Propulion 🛰️
 - 📫 How to reach me: </br>
                 - https://twitter.com/gdip95 (Twitter) </br>
                 - https://www.linkedin.com/in/giuseppe-dipasquale (LinkedIn) </br>
